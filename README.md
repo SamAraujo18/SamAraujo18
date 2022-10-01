@@ -2,7 +2,7 @@
 ### Olá, Eu me chamo Samuel Araújo.
 #### Seja bem-vindo(a) ao meu perfil
 
-Sou Desenvolver de Python.<br>
+Desenvolver de Python e PHP.<br>
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da progamação.
 
 
