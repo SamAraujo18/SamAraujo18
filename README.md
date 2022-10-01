@@ -3,7 +3,7 @@
 #### seja bem-vindo(a) ao meu perfil
 
 Sou Desenvolver de Python.<br>
-Minha linguagem predileta é PHP, mas estou aberto para aprender outras tecnologias.
+Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da progamação.
 
 
 
@@ -12,7 +12,7 @@ Minha linguagem predileta é PHP, mas estou aberto para aprender outras tecnolog
 
 ### Contatos:
 
-<a href="https://www.linkedin.com/in/jorge-ant%C3%B4nio-meireles-2a3b17211/" ><img width="48px" height= "48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+<a href="(COLOCAROLINK)" ><img width="48px" height= "48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 <a href="mailto:contatosamuelcfal@hotmail.com?&subject=&cc=&bcc=&body=" ><img width="48px" height= "48px" src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-gmail-social-media-justicon-flat-justicon.png"/></a> 
 
 
