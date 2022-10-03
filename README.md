@@ -35,3 +35,5 @@ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da
   <img  align="left"     width="40px"     height=" 40px"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" /> 
   <img  align="left"     width="40px"     height=" 40px"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />             <img  align="left"     width="40px"     height=" 40px"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <br>
+  
+   ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
