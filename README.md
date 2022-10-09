@@ -35,8 +35,6 @@ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da
   <div>
   <br>
   
-  <hr>
-  
   <div>
  
    ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
