@@ -34,7 +34,7 @@ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da
   <img  align="left"     width="40px"     height=" 40px"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" /> 
   <div>
   <br>
-  <hr>
+  <hr height=" 1px">
   <br>
   
   <div>
