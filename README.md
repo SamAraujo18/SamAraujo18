@@ -1,10 +1,11 @@
 ### Olá, Eu me chamo Samuel Araújo.
 #### Seja bem-vindo(a) ao meu perfil
 
-Desenvolver Python.<br>
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da progamação.
+Olá, eu sou Samuel Araújo.
 
+Técnico de Projetos de Distribuição e estudante de Engenharia Elétrica, com experiência em automação de processos, análise de dados e desenvolvimento de soluções internas.
 
+Atualmente estudo desenvolvimento backend com Python, FastAPI, SQL e APIs REST, buscando unir minha experiência com processos corporativos, SAP, Excel/VBA, Power BI e automação ao desenvolvimento de sistemas.
 
 
 
